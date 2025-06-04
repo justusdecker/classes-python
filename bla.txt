@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hellooo
 test
+=======
+helloooo
+>>>>>>> d841fde5cbfd4b0d692ade404b9f7c3393d9460c
