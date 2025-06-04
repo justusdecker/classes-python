@@ -1,0 +1,7 @@
+simplen kalkulator (+ - * /)
+
+maximal 2 inputs 
+
+abfrage des datentyps
+
+division by zero
